@@ -6,3 +6,10 @@
 - You have been provided with a dataset of 5000 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage, securities account, etc.), and the customer response to the last personal loan campaign (Personal Loan).
 
 - You are brought in as a consultant and your job is to explore the data to understand the variables and the impact they have had on Personal Loans so that the bank can leverage the insights to reach out to the right customers who have a higher probability of purchasing the loan.
+  ## Tools used
+ - Study the dataset provided in detail
+- perform data wrangling
+- datatype conversion
+- data imputation and do exploratory data analysis (EDA) alongwith visualisation. Perform regression analysis available under data analysis toolpack
+- to establish the most relevant variables affecting house price.
+
